@@ -13,9 +13,7 @@ To install the sample syllable table, using the SAP2011 Data Managment feature c
 
 KLFromRecordingDays is contained within a self-installing package: KLFromRecordingDays-1.1-amd64.msi. This self-installer also had to be  split, and into six 7-Zip archives: KLFromRecordingDays-1.1-amd64.7z.001 - 006. These archive files are in the \cx_Freeze\KLFromRecordingDays subdirectory.
 
-If you have not already, download 7-Zip from: http://www.7-zip.org/ and install it.
-
-Create a folder and download all six archive files. Right click KLFromRecordingDays-1.1-amd64.7z.001, select 7-Zip -> Extract Files.
+Create a new folder and download all six archive files. Right click KLFromRecordingDays-1.1-amd64.7z.001, select 7-Zip -> Extract Files.
 
 The archive files are combined into the installer: KLFromRecordingDays-1.1-amd64.msi.
 
